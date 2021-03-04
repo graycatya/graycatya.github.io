@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://graycatya.gitee.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "theme"
+title = "GrayCatYa Qt for Webassembly"
+theme = ["theme"]
+disableLiveReload = true
