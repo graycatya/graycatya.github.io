@@ -1,5 +1,5 @@
 baseURL = "http://graycatya.gitee.io"
 languageCode = "en-us"
 title = "GrayCatYa Qt for Webassembly"
-theme = ["theme"]
+theme = ["hello-friend-ng"]
 disableLiveReload = true
